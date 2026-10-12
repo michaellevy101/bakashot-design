@@ -2,6 +2,8 @@
 
 Final green-and-gold designs for **שירת הבקשות**, in A4 and wide WhatsApp formats. This repository contains only the current approved versions, not the earlier experiments.
 
+Download the complete collection as a [ZIP](https://github.com/michaellevy101/bakashot-design/archive/refs/heads/main.zip), or choose individual files below.
+
 | Version | A4 | Wide / WhatsApp |
 | --- | --- | --- |
 | **Locked baseline** - approved design, without stars | [Image](versions/01-locked/A4/Poster.png) · [PowerPoint](versions/01-locked/A4/Editable.pptx) · [HTML editor](versions/01-locked/A4/Editor.html) | [Image](versions/01-locked/Wide/Poster.png) · [PowerPoint](versions/01-locked/Wide/Editable.pptx) · [HTML editor](versions/01-locked/Wide/Editor.html) |
