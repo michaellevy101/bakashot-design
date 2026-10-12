@@ -1,0 +1,19 @@
+Photograph: Oud - MIM PHX
+Photographer: Frank Kovalchek
+Source: https://commons.wikimedia.org/wiki/File:Oud_-_MIM_PHX.jpg
+Original source: https://www.flickr.com/photos/72213316@N00/14351824475/
+License: Creative Commons Attribution 2.0
+License URL: https://creativecommons.org/licenses/by/2.0/
+
+Changes: background removed, cropped, resized, and optionally converted to
+grayscale. The photograph is used as a separately attributed visual element.
+The photograph's license does not imply endorsement by the photographer.
+
+Attribution is included in the editable presentation's notes and HTML editor,
+outside the poster artwork. When sharing a standalone image or PDF, include
+the following credit in its accompanying message or caption:
+
+"Oud - MIM PHX" photograph by Frank Kovalchek, CC BY 2.0.
+https://commons.wikimedia.org/wiki/File:Oud_-_MIM_PHX.jpg
+https://creativecommons.org/licenses/by/2.0/
+Modified: background removed, resized, and grayscale for print.
