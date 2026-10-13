@@ -4,6 +4,37 @@ Final green-and-gold designs for **שירת הבקשות**, in A4 and wide Whats
 
 Download the complete collection as a [ZIP](https://github.com/michaellevy101/bakashot-design/archive/refs/heads/main.zip), or choose individual files below.
 
+## Current editable presentations
+
+The latest PowerPoint templates use native Hebrew text, a separate oud image
+and QR code, and a protected decorative background. The weekly copies show
+**שם הפרשה** and **שם הרב** as editable placeholders. Full-editing copies
+also let you change the other text and images.
+
+| Format | Weekly template | Full editing |
+| --- | --- | --- |
+| A4 colour | [PowerPoint](versions/04-browser/Bakashot-Weekly-A4-Color.pptx) | [PowerPoint](versions/04-browser/Bakashot-Full-Editable-A4-Color.pptx) |
+| A4 black-and-white | [PowerPoint](versions/04-browser/Bakashot-Weekly-A4-Black-and-White.pptx) | [PowerPoint](versions/04-browser/Bakashot-Full-Editable-A4-Black-and-White.pptx) |
+| Wide / WhatsApp colour | [PowerPoint](versions/04-browser/Bakashot-Weekly-Wide-Color.pptx) | [PowerPoint](versions/04-browser/Bakashot-Full-Editable-Wide-Color.pptx) |
+
+These copies include larger lower-section text, the latest manually adjusted
+A4 spacing, and each A4 colour variant's separately resized oud. The wide
+copies have a larger event-information column. All use the same braided side
+ornament; the monochrome copies use solid-black text and stronger print lines.
+The address is **רבי יהודה הנשיא 20, פתח תקווה**, without a street prefix.
+
+Download the [background source package](versions/04-browser/Bakashot-Background-Code.zip)
+to edit the artwork through code and rebuild the presentations. It includes
+the Python generators, layout overrides, input presentations, assets,
+licences, and instructions. The current presentations use **FrankRuehl**
+and **Arial**, available in PowerPoint for the web; these Microsoft fonts
+are not bundled. The source package also includes the licensed open-source
+fonts used by the older designs.
+
+The earlier releases below remain unchanged.
+
+## Earlier approved releases
+
 | Version | A4 | Wide / WhatsApp |
 | --- | --- | --- |
 | **Locked baseline** - approved design, without stars | [Image](versions/01-locked/A4/Poster.png) · [PowerPoint](versions/01-locked/A4/Editable.pptx) · [HTML editor](versions/01-locked/A4/Editor.html) | [Image](versions/01-locked/Wide/Poster.png) · [PowerPoint](versions/01-locked/Wide/Editable.pptx) · [HTML editor](versions/01-locked/Wide/Editor.html) |
@@ -12,7 +43,7 @@ Download the complete collection as a [ZIP](https://github.com/michaellevy101/ba
 
 Every `Poster.png` is one complete, single-page image. Wide images are 1600 × 900. A4 folders also contain a monochrome `Print.png`, a single-page [PDF](versions/03-weekly/A4/Print.pdf), and `Print-editable.pptx`.
 
-## Weekly editing
+## Earlier weekly editing
 
 Download `Editor.html` and open it in a browser; GitHub does not run the editor directly. Only **שם הפרשה** and **שם הרב** are editable in the weekly templates. The time (20:30), location, address, other wording, and artwork remain fixed. Use the save button to download your updated self-contained HTML, or print it to PDF.
 
